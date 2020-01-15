@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Tutorial1\Tutorial1\obj\Debug\netcoreapp3.1\Tutorial1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Tutorial1\Tutorial1\obj\Debug\netcoreapp3.1\Tutorial1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Tutorial1\Tutorial1\obj\Debug\netcoreapp3.1\Tutorial1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Tutorial1\Tutorial1\bin\Debug\netcoreapp3.1\Friendzone Detector.exe
+C:\Users\Admin\source\repos\Tutorial1\Tutorial1\bin\Debug\netcoreapp3.1\Friendzone Detector.deps.json
+C:\Users\Admin\source\repos\Tutorial1\Tutorial1\bin\Debug\netcoreapp3.1\Friendzone Detector.runtimeconfig.json
+C:\Users\Admin\source\repos\Tutorial1\Tutorial1\bin\Debug\netcoreapp3.1\Friendzone Detector.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Tutorial1\Tutorial1\bin\Debug\netcoreapp3.1\Friendzone Detector.dll
+C:\Users\Admin\source\repos\Tutorial1\Tutorial1\bin\Debug\netcoreapp3.1\Friendzone Detector.pdb
+C:\Users\Admin\source\repos\Tutorial1\Tutorial1\obj\Debug\netcoreapp3.1\Friendzone Detector.dll
+C:\Users\Admin\source\repos\Tutorial1\Tutorial1\obj\Debug\netcoreapp3.1\Friendzone Detector.pdb
